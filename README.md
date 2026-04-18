@@ -60,21 +60,10 @@
 
 </div>
 
-<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ayeshsenadheera&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayeshsenadheera&theme=tokyonight&column=7&margin-w=8&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -88,14 +77,6 @@
 | **CampusFlow** | A unified web platform for managing campus facility bookings, maintenance tickets, and resources. | Spring · Vite.js · MySql Workbench| [View →](https://github.com/ayeshsenadheera/CampusFlow.git) |
 
 </div>
-
----
-
-## 📈 Contribution Graph
-
-[![Ayesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayeshsenadheera&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 ## 📫 Contact Me
 
